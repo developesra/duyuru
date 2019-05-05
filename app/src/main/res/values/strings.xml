@@ -1,0 +1,175 @@
+<resources>
+    <string name="app_name">BiDuyuru</string>
+    <string-array name="Fakulte">
+        <item>Fakultenizi Seciniz</item>
+        <item>Devlet Konservatuvari</item>
+        <item>DTCF</item>
+        <item>Dis Hekimligi</item>
+        <item>Eczacilik</item>
+        <item>Egitim Bilimleri</item>
+        <item>Fen</item>
+        <item>Guzel Sanatlar</item>
+        <item>Hemsirelik</item>
+        <item>Hukuk</item>
+        <item>Ilahiyat</item>
+        <item>Iletisim</item>
+        <item>Muhendislik</item>
+        <item>Saglik Bilimleri</item>
+        <item>Siyasal Bilgiler</item>
+        <item>Spor Bilimleri</item>
+        <item>Tip</item>
+        <item>Uygulamali Bilimler</item>
+        <item>Veteriner</item>
+        <item>Ziraat</item>
+
+    </string-array>
+
+
+    <string-array name="Bolum_2">
+        <item>Bölümünüzü seçiniz</item>
+        <item>Alman Dili ve Edebiyatı</item>
+        <item>Amerikan Kültürü ve Edebiyatı</item>
+        <item>Antropoloji</item>
+        <item>Arap Dili ve Edebiyatı</item>
+        <item>Bilgi ve Belge Yönetimi</item>
+        <item>Bulgar Dili ve Edebiyatı</item>
+        <item>Coğrafya</item>
+        <item>Çağdaş Türk Lehçeleri ve Edebiyatları</item>
+        <item>Çağdaş Yunan Dili ve Edebiyatı</item>
+        <item>Dil Bilim</item>
+        <item>Ermeni Dili ve Kültürü</item>
+        <item>Fars Dili ve Edebiyatı</item>
+        <item>Felsefe</item>
+        <item>Fransız Dili ve Edebiyatı</item>
+        <item>Halkbilim</item>
+        <item>Hindoloji</item>
+        <item>Hititoloji</item>
+        <item>Hungaroloji</item>
+        <item>İngiliz Dili ve Edebiyatı</item>
+        <item>İspanyol Dili ve Edebiyatı</item>
+        <item>İtalyan Dili ve Edebiyatı</item>
+        <item>Japon Dili ve Edebiyatı</item>
+        <item>Klasik Arkeoloji</item>
+        <item>Kore Dili ve Edebiyatı</item>
+        <item>Latin Dili ve Edebiyatı</item>
+        <item>Polonya Dili ve Kültürü</item>
+        <item>Protohistorya ve Ön Asya Arkeolojisi</item>
+        <item>Psikoloji</item>
+        <item>Rus Dili ve Edebiyatı</item>
+        <item>Sanat Tarihi</item>
+        <item>Sinoloji</item>
+        <item>Sosyoloji</item>
+        <item>Sümeroloji</item>
+        <item>Tarih</item>
+        <item>Türk Dili ve Edebiyatı</item>
+        <item>Urdu Dili ve Edebiyatı</item>
+        <item>Yunan Dili ve Edebiyatı</item>
+
+    </string-array>
+
+    <string-array name="Bolum_5">
+        <item>Bölümünüzü seçiniz</item>
+        <item>Bilgisayar ve Öğretim Teknolojileri Öğretmenliği</item>
+        <item>Okul Öncesi Öğretmenliği</item>
+        <item>Özel Eğitim Öğretmenliği</item>
+        <item>Rehberlik ve Psikolojik Danışmanlık</item>
+        <item>Sınıf Öğretmenliği</item>
+        <item>Sosyal Bilgiler Öğretmenliği</item>
+
+    </string-array>
+
+
+    <string-array name="Bolum_6">
+        <item>Bölümünüzü seçiniz</item>
+        <item>Astronomi ve Uzay Bilimleri</item>
+        <item>Biyoloji</item>
+        <item>Fizik</item>
+        <item>İstatistik</item>
+        <item>Kimya</item>
+        <item>Matematik</item>
+
+    </string-array>
+
+    <string-array name="Bolum_7">
+        <item>Bölümünüzü seçiniz</item>
+        <item>Kültür Varlıklarını Koruma ve Onarım</item>
+    </string-array>
+
+    <string-array name="Bolum_8">
+        <item>Bölümünüzü seçiniz</item>
+        <item>Ebelik</item>
+        <item>Hemşirelik</item>
+    </string-array>
+
+    <string-array name="Bolum_11">
+        <item>Bölümünüzü seçiniz</item>
+        <item>Halkla İlişkiler ve Tanıtım</item>
+        <item>Radyo, Televizyon ve Sinema</item>
+        <item>Gazetecilik</item>
+
+    </string-array>
+
+    <string-array name="Bolum_12">
+        <item>Bölümünüzü seçiniz</item>
+        <item>Bilgisayar Mühendisliği</item>
+        <item>Biyomedikal Mühendisliği</item>
+        <item>Elektrik-Elektronik Mühendisliği</item>
+        <item>Enerji Mühendisliği</item>
+        <item>Fizik Mühendisliği</item>
+        <item>Gıda Mühendisliği</item>
+        <item>Jeofizik Mühendisliği</item>
+        <item>Jeoloji Mühendisliği</item>
+        <item>Kimya Mühendisliği</item>
+
+    </string-array>
+    
+    <string-array name="Bolum_13">
+        <item>Bölümünüzü seçiniz</item>
+        <item>Beslenme ve Diyetetik</item>
+        <item>Çocuk Gelişimi</item>
+        <item>Ortez-Protez</item>
+        <item>Sağlık Yönetimi</item>
+        <item>Sosyal Hizmet</item>
+
+    </string-array>
+
+    <string-array name="Bolum_14">
+        <item>Bölümünüzü seçiniz</item>
+        <item>Çalışma Ekonomisi ve Endüstri İlişkileri</item>
+        <item>İktisat</item>
+        <item>İşletme</item>
+        <item>Maliye</item>
+        <item>Siyaset Bilimi ve Kamu Yönetimi</item>
+        <item>Uluslararası İlişkiler</item>
+
+    </string-array>
+
+    <string-array name="Bolum_17">
+        <item>Bölümünüzü seçiniz</item>
+        <item>Gayrimenkul Geliştirme veYönetimi</item>
+        <item>Sigortacılık ve Aktüerya Bilimleri</item>
+
+    </string-array>
+
+    <string-array name="Bolum_18">
+        <item>Bölümünüzü seçiniz</item>
+        <item>Bahçe Bitkileri</item>
+        <item>Bitki Koruma</item>
+        <item>Peyzaj Mimarlığı</item>
+        <item>Su Ürünleri Mühendisliği</item>
+        <item>Süt Teknolojisi</item>
+        <item>Tarım Ekonomisi</item>
+        <item>Tarım Makineleri ve Teknolojileri Mühendisliği</item>
+        <item>Tarımsal Yapılar ve Sulama</item>
+        <item>Tarla Bitkileri</item>
+        <item>Toprak Bilimi ve Bitki Besleme</item>
+        <item>Zootekni</item>
+
+    </string-array>
+
+    <string-array name="Bolum_bos">
+        <item>Bölüm Yok !</item>
+
+    </string-array>
+
+</resources>
